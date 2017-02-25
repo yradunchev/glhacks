@@ -4,11 +4,9 @@
 
 ## DESCRIPTION
  
-  You must save before in glhack for this to work.
-
-  You cannot use this script while glhack is running: glhack must be off for saving and loading!!!
-
-  Output save dir is created automatically first time the script is run.
+  You must save before in glhack for this to work.   
+  You cannot use this script while glhack is running: glhack must be off for saving and loading!!!   
+  Output save dir is created automatically first time the script is run.   
 
 ## INSTALLATION
 
@@ -20,17 +18,17 @@
 
 ## SAMPLE CALLS
 
-  First save glhack with S command.
-  While the game is quit use:
+  First save glhack with S command.   
+  While the game is quit use:   
 
-  _glhckcht s 1; glhack_  #saves state 1, and comes back to the game
-  _glhckckt s "hard part"; glhack_   #saves state "hard part"
+  _glhckcht s 1; glhack_  #saves state 1, and comes back to the game   
+  _glhckckt s "hard part"; glhack_   #saves state "hard part"   
 
-  To load a state, quit with #quit
-  While the game is quit do:
+  To load a state, quit with #quit   
+  While the game is quit do:   
 
-  _glhckcht l 1; glhack_    # loads state 1, and comes back to the game
-  _glhckcht l "hard part"; glhack_    # loads state "hard part"
+  _glhckcht l 1; glhack_    # loads state 1, and comes back to the game   
+  _glhckcht l "hard part"; glhack_    # loads state "hard part"   
 
   When you start the game it should be back at last place.
   TIP: hit up on the terminal to access terminal history after loading and saving to quickly load and save.
