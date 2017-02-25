@@ -36,7 +36,7 @@
   # loads state "hard part":   
   _glhckcht l "hard part"; glhack_   
 
-  When you start the game it should be back at last place.
+  When you start the game it should be back at last place.   
   TIP: hit up on the terminal to access terminal history after loading and saving to quickly load and save.
 
 
